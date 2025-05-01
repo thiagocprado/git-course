@@ -1,0 +1,23 @@
+{
+  "name": "javascript-html5-css3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com.br/issues"
+  },
+  "homepage": "",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}

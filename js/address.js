@@ -22,6 +22,7 @@ async function getAddress(cep) {
     const resp = await axios.get(url);
     preencherCampos(resp.data);
   } catch (error) {
+    exibeMensagensDeErro(error.message);
   } finally {
     esconderLoading();
   }

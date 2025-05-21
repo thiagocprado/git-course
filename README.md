@@ -5,5 +5,5 @@
 
 - Para rodar projeto é preciso instalar o node (pode ser sua versão LTS)
   - Instale as dependências com npm install
-  - Rode o projeto com npm run vite
+  - Rode o projeto com npm run dev
   - Abra url gerada pelo vite no seu navegador
